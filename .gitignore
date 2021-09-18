@@ -6,7 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
-
+data/Comparendos_2019_Bogota_D_C-shp
 # Executables
 *.swf
 *.air
